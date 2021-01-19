@@ -3,18 +3,19 @@
 ![surfs-up.png](Images/surfs-up.png)
 
 ### Purpose
-Using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib, analyze data from Hawaii weather stations between 01/01/2010 to 08/23/2017 and provide climate analysis and data exploration. The purpose of this study is to choose the better time of the year for a trip vacation to Hawaii.
+Using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib, analyze data from Hawaii weather stations between 01/01/2010 to 08/23/2017, to provide climate analysis and data exploration.
+The purpose of this study is to choose the better time of the year for a trip vacation to Hawaii.
 
 ### Dataset
 - hawaii_measurement.csv
 - hawaii_stations.csv
 
 ### Description
-1. Precipitation Analysis - design a query to retrieve the last 12 months of precipitation data and plot it using the data frame. Use Pandas to print the summary statistics for the precipitation data.
+1. Precipitation Analysis - design a query to retrieve the last 12 months of precipitation data and plot it using the data frame. 
 ![precipitation](Images/precipitation.png)
 2. Station Analysis - design a query to calculate the total number of stations and most active stations. Retrieve the last 12 months of temperature observation data (TOBS) and the highest number of observations. Plot the results as a histogram with `bins=12`.
 ![station-histogram](Images/station-histogram.png)
-3. Temperature Analysis - identify the average temperature for the time of the trip and daily normals. Normals are the averages for the min, avg, and max temperatures.
+3. Temperature Analysis - identify the average temperature for the time of the trip and daily normals. 
 
 ![temperature](Images/temperature.png)
 

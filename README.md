@@ -14,8 +14,6 @@ The purpose of this study is to choose the better time of the year for a trip va
 - Matplotlib
 - Flask API
 
-=======
->>>>>>> 74f104bd004cd85abcb0c57e7c4f6f25395ed113
 
 ### Dataset
 - hawaii_measurement.csv

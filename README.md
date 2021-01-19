@@ -6,9 +6,18 @@
 Using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib, analyze data from Hawaii weather stations between 01/01/2010 to 08/23/2017, to provide climate analysis and data exploration.
 The purpose of this study is to choose the better time of the year for a trip vacation to Hawaii.
 
+
+### Tools
+- Python
+- SQLAlchemy
+- Matplotlib
+- Flask API
+
+
 ### Dataset
 - hawaii_measurement.csv
 - hawaii_stations.csv
+
 
 ### Description
 1. Precipitation Analysis - design a query to retrieve the last 12 months of precipitation data and plot it using the data frame. 
@@ -21,10 +30,11 @@ The purpose of this study is to choose the better time of the year for a trip va
 
 ![daily-normals](Images/daily-normals.png)
 
+
 ### Climate App
 Design a Flask API based on the queries developed.
 
-### Routes
+#### Routes
 
 * `/`
 

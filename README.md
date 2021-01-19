@@ -1,4 +1,4 @@
-# SQLAlchemy_Challenge
+# SQLAlchemy_Climate_Analysis
 
 # SQLAlchemy Homework - Surfs Up!
 

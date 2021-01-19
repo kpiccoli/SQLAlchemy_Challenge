@@ -3,7 +3,7 @@
 ![surfs-up.png](Images/surfs-up.png)
 
 ### Purpose
-Using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib, analyze data from Hawaii weather stations between 01/01/2010 to 08/23/2017 and provide climate analysis and data exploration. The purpose of this study is to choose the better time of the year for a trip vacation to Hawaii.
+Using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib, analyze data from Hawaii weather stations between 01/01/2010 to 08/23/2017, to provide climate analysis and data exploration. The purpose of this study is to choose the better time of the year for a trip vacation to Hawaii.
 
 ### Dataset
 - hawaii_measurement.csv
